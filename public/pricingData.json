@@ -8,24 +8,21 @@
       "Access to gym floor",
       "Cardio equipment",
       "Locker room access",
-      "1 free fitness assessment",
-      "Free water station",
-      "Open 6 days a week"
+      "1 free fitness assessment"
     ]
   },
   {
     "id": 2,
     "name": "Standard",
     "price": "$45/month",
+    "popular" : true,
     "info": "Ideal for regular gym-goers with group classes and extras.",
     "features": [
       "All Basic features",
       "Group fitness classes",
       "Free Wi-Fi",
       "2 guest passes per month",
-      "Stretching & yoga area",
-      "Access to nutrition workshops",
-      "Extended opening hours"
+      "Stretching & yoga area"
     ]
   },
   {
